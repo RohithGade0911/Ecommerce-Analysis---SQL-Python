@@ -46,15 +46,3 @@ To replicate this analysis:
 
 ## 📈 Analysis and Insights
 The project uncovers various insights into shopping behavior, including product popularity, reordering patterns, and time-based shopping trends. For detailed findings, refer to the analysis section within the Jupyter notebook.
-
-## 📚 Additional Information
-For further details on the datasets, operations, and analyses conducted in this project, please refer to the accompanying Jupyter notebook and SQL script.
-
-## 🤝 Contributing
-Contributions to extend or improve the analysis are welcome. Please ensure to follow the project's contribution guidelines.
-
-## 📜 License
-This project is open-source and available under the MIT license.
-
-## 🙏 Acknowledgements
-Special thanks to Kaggle for providing the Instacart Market Basket Analysis dataset and to the developers of the libraries used in this project.
